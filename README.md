@@ -22,7 +22,7 @@ In recent years, the amount of data available in football has increased with sen
 
 An Intelligent Video Analytics Pipeline powered by Deepstream and NVIDIA Jetson Xavier NX. 
 
-![Jetson Nano](resource/jetson.jpg)
+![Jetson Nano](resource/jetson_nano.jpg)
 
 This project is a proof-of-concept, trying to detect is person inside the restricted area.
 
