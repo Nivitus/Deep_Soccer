@@ -1,14 +1,8 @@
 # Deep Soccer using Deepstream-5.1
 
-Individual safety is of paramount importance at all times, whether at work or at home.
-To avoid any catastrophes, work sites have zones designated as prohibitive or restricted zones.
-Persons entering such prohibited zones are in great danger. Industries or concerned authorities must assure employee protection by implementing preventive measures such as providing suitable safety equipment, and providing occupational health and safety training.
-However, no workplace is completely safe from accidents, particularly for construction workers.
-When a person enters the restricted zone by accident, an alarm is generated in this situation.
-As a result, these systems are vital in guaranteeing worker safety.
-This app, built on Nvidia's Deepsteam SDK, would also help corporate buildings, commercial complexes , industries, unmanned areas to detect and help person safety.
+In recent years, the amount of data available in football has increased with sensors, GPS trackers, and computer vision algorithms to track how players move and how the ball moves. Despite this, machine learning and AI have only come into use to derive insights and make decisions in sports. And moreover, in football, the penalty kick is a very hotly anticipated position that no one knows beforehand how it will end up. Here comes to picture of Deep Soccer Project. Deep Soccer detects the football during the match and penalty shot time for calculating the number of the goals shooted by the team. This app, built on Nvidia's Deepsteam SDK, would also help during different kinds of sports video analytics.
 
-![Person_Safety](resource/person_safety.png)
+![Deep_Soccer](resource/football.gif)
 
 ## Index
 
