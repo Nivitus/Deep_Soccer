@@ -71,14 +71,14 @@ Next, clone the repository
 
 ```sh
 # Using HTTPS
-https://github.com/MANJUSHREE-GS/Person_Safety_Detection.git
+https://github.com/Nivitus/Deep_Soccer.git 
 # Using SSH
-git@github.com:MANJUSHREE-GS/Person_Safety_Detection.git
+git@github.com:Nivitus/Deep_Soccer.git
 ```
 
 ### 2. Download the weights file
 
-Download the weights file from [google-drive](https://drive.google.com/file/d/1nZds8loc4XdG4KQGdgoU-xyOgwJqv9m-/view?usp=sharing) and place it in `models/YOLOv4` directory.
+Download the weights file from [google-drive](https://drive.google.com/file/d/1N3jXbSyJvY9Hpw4Wq7fXnj3KwEwTPhm8/view?usp=sharing) and place it in `models/YOLOv4` directory.
 
 ### 3. Build the application
 
@@ -88,21 +88,21 @@ First, build the application by running the following command:
 make clean && make -j$(nproc)
 ```
 
-This will generate the binary called `person_safety`. This is a one-time step and you need to do this only when you make source-code changes.
+This will generate the binary called `deep_soccer`. This is a one-time step and you need to do this only when you make source-code changes.
 
 ### 4. Run with different input sources
 
-Next, create a file called `inputsources.txt` and paste the path of videos or rtsp url.
+Next, create a file called `inputsources.txt` and paste the path of videos.
 
 ```sh
-file:///home/zxcv/Downloads/specialization.mp4
-rtsp://admin:admin%5346@194.162.5.14:554/stream
+file:///home/nivitus/Music/Deep_Soccer/balls.mp4
+file:///home/nivitus/Music/Deep_Soccer/ball.mp4
 ```
 
 Now, run the application by running the following command:
 
 ```sh
-./person_safety
+./deep_soccer
 ```
 
 ## Citations
@@ -111,4 +111,4 @@ Now, run the application by running the following command:
 * [AkashJames](https://github.com/kn1ghtf1re/YOLOv4-Deepstream)
 
 
-Please find the Links of a Demo video, [here](https://youtu.be/qECftC_X5t4)
+Please find the Links of a Demo video, [here](https://youtu.be/luHfXfYN2pk)
