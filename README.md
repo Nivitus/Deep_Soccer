@@ -24,7 +24,7 @@ An Intelligent Video Analytics Pipeline powered by Deepstream and NVIDIA Jetson 
 
 ![Jetson Nano](resource/jetson_nano.jpg)
 
-This project is a proof-of-concept, trying to detect is person inside the restricted area.
+Big impact of Sport Analytics using Artificial Intelligence and Computer Vision
 
 ## Deepstream Setup
 
